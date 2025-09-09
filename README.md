@@ -7,7 +7,7 @@ This project automates logging & reporting of daily fitness activities and gener
 ## Project Structure
 ```
 fitness_activity_tracker_capstone/
-├─ activities.json            # sample dataset (28 records, mixed types; some missing calories)
+├─ activities.json            # sample dataset 
 ├─ main.py                    # entry script
 ├─ templates/
 │  └─ dashboard.html          # Jinja2 template
