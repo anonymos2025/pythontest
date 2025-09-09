@@ -16,6 +16,7 @@ fitness_activity_tracker_capstone/
    ├─ summary.md              # Markdown summary
    └─ archive/report-*.zip    # archived copies
 ```
+## Team Roles 
 - Data & API: DJARIR MOHAMMED YACINE  
 - Analytics & Python: KERFFAL SAMY  
 - Templating & UI: TICHERAFI CAMELIA  
